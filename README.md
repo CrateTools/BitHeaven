@@ -66,40 +66,6 @@ SymScan Lite shows you the links. **SymScan Technician puts you in control of th
 
 When something breaks, SymScan tells you, and you can fix it on the spot.
 
-**[Get SymScan Technician on Gumroad](https://cratetools.gumroad.com/l/SymScanTechnician)**
-
-**[Watch SymScan in action 🟥⃢▸](https://www.youtube.com/watch?v=GnVZ0FGb0rY)**
-
-### Create and manage: The core three
-
-**1. Links, made and tracked.** Two side-by-side folder panes: pick the folder, drop it where the link should go, see a preview of exactly what will run, and confirm. Junctions and symbolic links. Every link you make goes into your **Link List**, kept after a restart, so you can check it, open it or remove it later.
-
-**2. Folder Disk: any folder as a drive letter.** Make a folder show up in Explorer as its own disk, for you, for one named person, or for every user of the PC. It comes back at every sign-in.
-
-**3. Network Disk: shares mapped the way you need them.** Map network shares to drive letters for you, for one named person, or for every user of the PC, restored at sign-in. When something stops it, SymScan says whether the server, the share or the sign-in is the reason.
-
-### Everything above, on every machine
-
-**Site Manager** pairs your other Windows PCs through a small agent. Then create links, set up Folder Disks and map Network Disks on them as if you were sitting there. Every machine's Link List and history stays in one place, and you can still look at them while that machine is offline.
-
-A server, a client's PC, a virtual machine in the next room: one screen for all of them. Works with Windows 10 and 11 on the same network, on physical PCs and virtual machines.
-
-### Find what broke, and fix it
-
-**Find every link, every time.** Go to your Link Tools link list, scan the whole computer or only the folders you pick. See each link's location, its target, the volume it sits on, and whether the target is still there. Check again any time with one click.
-
-**Fix the ones that break.** Spot a link whose target is gone, open its folder or its target with one click, then remove the link or make it again with Link Tools.
-
-**Real problems, not false alarms.** SymScan tells real problems apart from things that are only waiting, such as a drive that connects when someone signs in, or a disk that is unplugged. You fix what needs fixing and leave the rest alone.
-
-**Find what you did not make.** The **Not SymScan** tag marks links and drive letters that SymScan did not create, so the unexpected ones stand out.
-
-**A history you can trust.** Every scan is saved, for every machine. Reopen any scan and search it. Deleting a saved scan is safe: SymScan first shows which of its links still exist on disk, and asks twice.
-
-**Private and offline.** SymScan Technician keeps everything in its own folder, works without an internet connection, and sends nothing anywhere. Nothing phones home.
-
-Built for homelab enthusiasts and technicians who set up and maintain PCs, inherit messy disks, clean up after migrations, and need to prove what is and is not linked.
-
 ## Lite vs Technician
 
 | Feature | Lite (free) | Technician |
@@ -152,6 +118,40 @@ Built for homelab enthusiasts and technicians who set up and maintain PCs, inher
 | Save / download report | ✔ | ✔ |
 | Restart as administrator | ✔ | ✔ |
 | Offline, nothing sent anywhere | ✔ | ✔ |
+
+**[Get SymScan Technician on Gumroad](https://cratetools.gumroad.com/l/SymScanTechnician)**
+
+**[Watch SymScan in action 🟥⃢▸](https://www.youtube.com/watch?v=GnVZ0FGb0rY)**
+
+### Create and manage: The core three
+
+**1. Links, made and tracked.** Two side-by-side folder panes: pick the folder, drop it where the link should go, see a preview of exactly what will run, and confirm. Junctions and symbolic links. Every link you make goes into your **Link List**, kept after a restart, so you can check it, open it or remove it later.
+
+**2. Folder Disk: any folder as a drive letter.** Make a folder show up in Explorer as its own disk, for you, for one named person, or for every user of the PC. It comes back at every sign-in.
+
+**3. Network Disk: shares mapped the way you need them.** Map network shares to drive letters for you, for one named person, or for every user of the PC, restored at sign-in. When something stops it, SymScan says whether the server, the share or the sign-in is the reason.
+
+### Everything above, on every machine
+
+**Site Manager** pairs your other Windows PCs through a small agent. Then create links, set up Folder Disks and map Network Disks on them as if you were sitting there. Every machine's Link List and history stays in one place, and you can still look at them while that machine is offline.
+
+A server, a client's PC, a virtual machine in the next room: one screen for all of them. Works with Windows 10 and 11 on the same network, on physical PCs and virtual machines.
+
+### Find what broke, and fix it
+
+**Find every link, every time.** Go to your Link Tools link list, scan the whole computer or only the folders you pick. See each link's location, its target, the volume it sits on, and whether the target is still there. Check again any time with one click.
+
+**Fix the ones that break.** Spot a link whose target is gone, open its folder or its target with one click, then remove the link or make it again with Link Tools.
+
+**Real problems, not false alarms.** SymScan tells real problems apart from things that are only waiting, such as a drive that connects when someone signs in, or a disk that is unplugged. You fix what needs fixing and leave the rest alone.
+
+**Find what you did not make.** The **Not SymScan** tag marks links and drive letters that SymScan did not create, so the unexpected ones stand out.
+
+**A history you can trust.** Every scan is saved, for every machine. Reopen any scan and search it. Deleting a saved scan is safe: SymScan first shows which of its links still exist on disk, and asks twice.
+
+**Private and offline.** SymScan Technician keeps everything in its own folder, works without an internet connection, and sends nothing anywhere. Nothing phones home.
+
+Built for homelab enthusiasts and technicians who set up and maintain PCs, inherit messy disks, clean up after migrations, and need to prove what is and is not linked.
 
 **[Get SymScan Technician on Gumroad](https://cratetools.gumroad.com/l/SymScanTechnician)**
 
