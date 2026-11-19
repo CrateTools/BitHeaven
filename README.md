@@ -121,7 +121,7 @@ When something breaks, SymScan tells you, and you can fix it on the spot.
 
 **[Get SymScan Technician on Gumroad](https://cratetools.gumroad.com/l/SymScanTechnician)**
 
-**[Watch SymScan in action 🟥⃢▸](https://www.youtube.com/watch?v=GnVZ0FGb0rY)**
+**[Watch SymScan in action 🟥⃢▸](https://www.youtube.com/watch?v=LmgwvyVcqpw)**
 
 ### Create and manage: The core three
 
