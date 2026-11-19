@@ -1,4 +1,4 @@
-<img width="1920" height="628" alt="SymScan_W0_plain_logo_super-wide" src="https://github.com/user-attachments/assets/0d6e24a9-e4ad-4b25-a59b-8b1f735076c6" />
+<img width="1128" height="191" alt="linkedin_company_cover_1128x191_dark" src="https://github.com/user-attachments/assets/a0704b23-eae6-4a87-ae99-0dc52ee69f3e" />
 
 # SymScan Lite
 
@@ -58,7 +58,7 @@ Copyright (c) 2026 CrateTools. All rights reserved.
 ---
 
 # Also available: SymScan Technician
-<img width="1920" height="801" alt="SymScan_W1_letters_cards_super-wide" src="https://github.com/user-attachments/assets/1b01bf78-b93f-444c-a98b-677a52d1631d" />
+<img width="1500" height="500" alt="bluesky_mastodon_header_1500x500_dark_TECHNICIAN" src="https://github.com/user-attachments/assets/2cf66cb4-59d9-406b-97b2-b2f86395e149" />
 
 ## Links, Folder Disks and Network Disks: made in a few clicks, tracked on every machine, run from one screen
 
