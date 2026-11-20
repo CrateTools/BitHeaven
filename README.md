@@ -57,7 +57,7 @@ Copyright (c) 2026 CrateTools. All rights reserved.
 ---
 ---
 
-# Also available: SymScan Technician
+# Also available: SymScan Technician 🚧
 <img width="1500" height="500" alt="bluesky_mastodon_header_1500x500_dark_TECHNICIAN" src="https://github.com/user-attachments/assets/2cf66cb4-59d9-406b-97b2-b2f86395e149" />
 
 ## Links, Folder Disks and Network Disks: made in a few clicks, tracked on every machine, run from one screen
