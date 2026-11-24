@@ -1,3 +1,5 @@
+<img width="1128" height="191" alt="linkedin_company_cover_1128x191_dark" src="https://github.com/user-attachments/assets/a0704b23-eae6-4a87-ae99-0dc52ee69f3e" />
+
 # BitHeaven Lite 🚧
 
 **Find every link on your Windows computer. Free.**
