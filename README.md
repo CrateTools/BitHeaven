@@ -64,7 +64,7 @@ Copyright (c) 2026 CrateTools. All rights reserved.
 
 # Also available: BitHeaven Technician - Give your data a better place to live 🚧
 
-<img width="1500" height="500" alt="bluesky_mastodon_header_1500x500_dark_TECHNICIAN" src="https://github.com/user-attachments/assets/2cf66cb4-59d9-406b-97b2-b2f86395e149" />
+<img width="3840" height="737" alt="BIT HEAVEN  4K 3840×21601_technician - banner" src="https://github.com/user-attachments/assets/11b9ca6a-fd88-4ae0-ab67-afcc8150a246" />
 
 ## Links, Folder Disks and Network Disks: made in a few clicks, tracked on every machine, run from one screen
 
