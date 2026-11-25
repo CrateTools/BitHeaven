@@ -1,4 +1,4 @@
-<img width="1128" height="191" alt="linkedin_company_cover_1128x191_dark" src="https://github.com/user-attachments/assets/a0704b23-eae6-4a87-ae99-0dc52ee69f3e" />
+<img width="3840" height="717" alt="BIT HEAVEN  4K 3840×21601 - banner" src="https://github.com/user-attachments/assets/7c7c09ad-2aee-4ce5-8713-822b3be1b5a2" />
 
 # BitHeaven Lite 🚧
 
