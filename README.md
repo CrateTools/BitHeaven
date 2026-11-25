@@ -125,7 +125,7 @@ When something breaks, BitHeaven tells you, and you can fix it on the spot.
 | Restart as administrator | ✔ | ✔ |
 | Offline, nothing sent anywhere | ✔ | ✔ |
 
-**[Get BitHeaven Technician on Gumroad](https://cratetools.gumroad.com/l/BitHeavenTechnician)**
+**[Get BitHeaven Technician on Gumroad](https://cratetools.gumroad.com/l/BitHeaven)**
 
 **[Watch BitHeaven in action 🟥⃢▸](https://www.youtube.com/watch?v=LmgwvyVcqpw)**
 
