@@ -62,7 +62,7 @@ Copyright (c) 2026 CrateTools. All rights reserved.
 
 ---
 
-# Also available: BitHeaven Technician - Give your data a better place to live 🚧
+# Also available: BitHeaven Technician 🚧
 
 <img width="3840" height="737" alt="BIT HEAVEN  4K 3840×21601_technician - banner" src="https://github.com/user-attachments/assets/11b9ca6a-fd88-4ae0-ab67-afcc8150a246" />
 
