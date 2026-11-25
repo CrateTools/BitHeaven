@@ -58,9 +58,6 @@ BitHeaven Lite is free to use, at home or at work. It may not be sold, redistrib
 
 Copyright (c) 2026 CrateTools. All rights reserved.
 
----
-
----
 
 # Also available: BitHeaven Technician 🚧
 
