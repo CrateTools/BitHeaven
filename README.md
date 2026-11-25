@@ -128,41 +128,41 @@ When something breaks, TORQ tells you, and you can fix it on the spot.
 | Uninstall: check for leftovers, and clean up only what TORQ made | ✗ | ✔ |
 | Full user manual included | ✗ | ✔ |
 
-**[Get TORQ Technician on Gumroad](https://cratetools.gumroad.com/l/BitHeavenTechnician)**
+**[Get TORQ Technician on Gumroad](https://cratetools.gumroad.com/l/TORQ)**
 
 **[Watch TORQ in action 🟥⃢▸](https://www.youtube.com/watch?v=LmgwvyVcqpw)**
 
-### The core three
+### What TORQ Technician does
 
-**1. Links, made and tracked.** Two side-by-side folder panes: pick the folder, drop it where the link should go, see exactly what will run, and confirm. Junctions and symbolic links. Every link you make goes into your **Link List**, kept after a restart, so you can check it, open it or remove it later.
+TORQ Technician started with links, folder disks and network disks. It now covers the whole picture of a Windows machine's storage, on every PC you look after, and it keeps growing.
 
-**2. Folder Disk: any folder as a drive letter.** Make a folder show up in Explorer as its own disk, for you, for one named person, or for every user of the PC. It comes back at every sign-in.
+**Links, made and tracked.** Two side-by-side folder panes: pick the folder, drop it where the link should go, see exactly what will run, and confirm. Junctions and symbolic links, including links to network shares that work for every user. Every link you make goes into your **Link List**, kept after a restart, so you can check it, open it or remove it later.
 
-**3. Network Disk: shares mapped the way you need them.** Map network shares to drive letters for you, for one named person, or for every user of the PC, restored at sign-in. When something stops a drive, TORQ says whether the server, the share or the sign-in is the reason.
+**Folders as drive letters.** **Folder Disk** makes any folder show up in Explorer as its own disk, for you, for one named person, or for every user of the PC, and brings it back at every sign-in.
 
-### Everything above, on every machine
+**Network shares as drive letters.** **Network Disk** maps shares for you, for one named person, or for every user of the PC, restored at sign-in. **Browse Share** finds the computers, shares and folders on your network. When a drive does not connect, TORQ says whether the server, the share or the sign-in is the reason. TORQ stores no passwords.
 
-**Site Manager** pairs your other Windows PCs through a small agent. Then create links, set up Folder Disks and map Network Disks on them as if you were sitting there. Every machine's Link List and history stays in one place, and you can still look at them while that machine is offline.
+**Storage, as it really is.** Every drive letter, mount folder, volume, partition and disk, with what each disk holds and how much is used and free. Pools, RAID, dynamic disks and BitLocker are shown as they really are, missing members and locked drives included. Disk health (S.M.A.R.T.) puts **Replace** or **Check** on a disk with the reason: temperature, reallocated sectors, NVMe spare and wear.
 
-A server, a client's PC, a virtual machine in the next room: one screen for all of them.
+**Disks you can identify.** Tag each disk with a sticker code, a photo of its label (the QR code is read for you, offline) and a note: where it sits, who to call. Tags follow the disk by its serial number and stay on your PC; nothing is ever written to the disk.
 
-### Find what broke, and fix it
+**Warranties you won't miss.** Record each disk's warranty end date, maker, vendor and receipt. The **Warranty** page lists every disk of every machine, soonest end first, warns you as the end gets close, and lets you acknowledge one once it's handled.
 
-**Find every link, every time.** Scan the whole computer or only the folders you pick. See each link's location, its target, the volume it sits on, and whether the target is still there. Check again any time with one click.
+**Every machine, from one screen.** **Site Manager** pairs your other Windows PCs through a small agent. Then create links, set up Folder Disks, map Network Disks, scan, browse folders and see storage and warranties on them as if you were sitting there. Every machine's links, history and storage stay in one place, and you can still look at them while that machine is offline. A server, a client's PC, a virtual machine in the next room: one screen for all of them. Every request is signed with the pairing key, and no password ever crosses the network.
 
-**Fix the ones that break.** Spot a link whose target is gone, open its folder or its target with one click, then remove the link or make it again in Link Tools.
+**Real problems, not false alarms.** The status panel tells **things to check** apart from things that are only **waiting**, such as a drive that connects when someone signs in, or a disk that is unplugged. Spot a link whose target is gone, open its folder or target with one click, then remove the link or make it again. The **Not TORQ** tag marks links and drive letters TORQ did not create, so the unexpected ones stand out.
 
-**Real problems, not false alarms.** TORQ tells real problems apart from things that are only waiting, such as a drive that connects when someone signs in, or a disk that is unplugged. You fix what needs fixing and leave the rest alone.
+**A history you can trust.** Every scan is saved, for every machine, and you can reopen and search any of them. One card per machine shows its links, Folder Disks and Network Disks, kept even while it is offline, with a report of what TORQ set up there. Deleting a saved scan is safe: TORQ first shows which of its links still exist on disk, and asks twice.
 
-**Find what you did not make.** The **Not TORQ** tag marks links and drive letters TORQ did not create, so the unexpected ones stand out.
-
-**A history you can trust.** Every scan is saved, for every machine. Reopen any scan and search it. Deleting a saved scan is safe: TORQ first shows which of its links still exist on disk, and asks twice.
+**Clean to keep, clean to leave.** See and manage TORQ's background tasks in Settings. When you're done, **Uninstall** checks for leftovers and cleans up only what TORQ made.
 
 **Private and offline.** TORQ Technician keeps everything in its own folder, works without an internet connection, and sends nothing anywhere. Nothing phones home.
 
+More is on the way.
+
 Built for homelab enthusiasts and technicians who set up and maintain PCs, inherit messy disks, clean up after migrations, and need to prove what is and is not linked.
 
-**[Get TORQ Technician on Gumroad](https://cratetools.gumroad.com/l/BitHeavenTechnician)**
+**[Get TORQ Technician on Gumroad](https://cratetools.gumroad.com/l/TORQ)**
 
 ### Technician requirements
 
