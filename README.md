@@ -1,5 +1,3 @@
-<img width="3840" height="717" alt="BIT HEAVEN  4K 3840×21601 - banner" src="https://github.com/user-attachments/assets/7c7c09ad-2aee-4ce5-8713-822b3be1b5a2" />
-
 # BitHeaven Lite 🚧
 
 **Find every link on your Windows computer. Free.**
@@ -59,7 +57,7 @@ BitHeaven Lite is free to use, at home or at work. It may not be sold, redistrib
 Copyright (c) 2026 CrateTools. All rights reserved.
 
 #
-<img width="3840" height="737" alt="BIT HEAVEN  4K 3840×21601_technician - banner" src="https://github.com/user-attachments/assets/11b9ca6a-fd88-4ae0-ab67-afcc8150a246" />
+
 
 # Also available: BitHeaven Technician 🚧
 
