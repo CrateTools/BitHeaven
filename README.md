@@ -98,6 +98,18 @@ When something breaks, BitHeaven tells you, and you can fix it on the spot.
 | See who is signed in on each machine | ✗ | ✔ |
 | Every request signed with the pairing key; no password ever sent over the network | ✗ | ✔ |
 | Windows 10 and 11 on the same network, physical PCs and virtual machines | ✗ | ✔ |
+| **💿 Storage** | | |
+| Disk tags: sticker code, label photo (QR read for you, offline) and note: where it sits, who to call | ✗ | ✔ |
+| Tags follow each disk by its serial number, kept on your PC, never written to the disk | ✗ | ✔ |
+| Warranty tracking for every tagged disk, on every machine: end date, maker, vendor and receipt | ✗ | ✔ |
+| Warranty countdown: soonest first, alerts as the end gets close, acknowledge once handled | ✗ | ✔ |
+| Storage of every paired PC through Site Manager, also while it is offline | ✗ | ✔ |
+| Status panel and clear "things to check" vs "waiting, nothing to fix" | ✗ | ✔ |
+| Storage by letter, volume, partition and disk, with disk health (S.M.A.R.T.) | ✔ | ✔ |
+| Replace or Check on each disk, with the reason: temperature, reallocated sectors, NVMe spare and wear | ✔ | ✔ |
+| Storage at a glance: drive letters, mount folders, volumes, disks, used and free | ✔ | ✔ |
+| Pools, RAID, dynamic disks and BitLocker shown as they really are, missing members and locked drives included | ✔ | ✔ |
+| What each disk holds: its letters and folders, EFI and recovery partitions, unallocated space | ✔ | ✔ |
 | **🗂️ History and tracking** | | |
 | Every scan saved, for every machine, with search | ✗ | ✔ |
 | One card per machine: its links, Folder Disks and Network Disks | ✗ | ✔ |
