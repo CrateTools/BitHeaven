@@ -58,10 +58,8 @@ BitHeaven Lite is free to use, at home or at work. It may not be sold, redistrib
 
 Copyright (c) 2026 CrateTools. All rights reserved.
 
-
-# Also available: BitHeaven Technician 🚧
-
 <img width="3840" height="737" alt="BIT HEAVEN  4K 3840×21601_technician - banner" src="https://github.com/user-attachments/assets/11b9ca6a-fd88-4ae0-ab67-afcc8150a246" />
+# Also available: BitHeaven Technician 🚧
 
 ## Links, Folder Disks and Network Disks: made in a few clicks, tracked on every machine, run from one screen
 
