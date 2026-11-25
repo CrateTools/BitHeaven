@@ -63,7 +63,7 @@ Copyright (c) 2026 CrateTools. All rights reserved.
 
 # Also available: BitHeaven Technician 🚧
 
-## Links, Folder Disks and Network Disks: made in a few clicks, tracked on every machine, run from one screen
+**Links, Folder Disks and Network Disks: made in a few clicks, tracked on every machine, run from one screen**
 
 BitHeaven Lite shows you the links. **BitHeaven Technician puts you in control of them.** Create Junctions and Symbolic links, turn Folders into Disks with the letter you want, and Map Network Shares into disks for one user or every user in the machine. Do it on this PC, or on any PC you have paired on your network. BitHeaven keeps track of everything it made, on every machine, so you always know what is set up where.
 
